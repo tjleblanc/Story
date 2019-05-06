@@ -1,1 +1,21 @@
-This is the best part ....
+rm ?.txt
+   71  mv chapter chapter2.txt
+   72  cp chapter2.txt chapter3.txt
+   73  ls
+   74  open chapter2.txt 
+   75  open chapter3.txt 
+   76  git status
+   77  git add . 
+   78  git status
+   79  git commit -m "next check in" .
+   80  git status
+   81  git status
+   82  git log
+   83  git diff chapter3.txt 
+   84  git checkout chapter3.txt 
+   85  git log
+   86  git remote add origin https://github.com/tjleblanc/Story.git
+   87  git -u origin master
+   88  git push -u origin master
+   89  git push -u origin master
+   90  history
